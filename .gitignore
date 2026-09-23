@@ -1,0 +1,3 @@
+# Local project installation; the source lives in risk-check/.
+.agents/
+.DS_Store
